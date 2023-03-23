@@ -1,0 +1,82 @@
+body {
+    background-color: #0D192C;
+}
+.main{
+    width: 350px;
+    height:596px ;
+    border-radius: 15px;
+margin: auto;
+padding: 24px;
+background-color:#15263F;
+
+}       
+.mainimg{
+    width: 100% ;
+    height:302px ;
+    margin: auto;
+    border-radius: 8px;
+}
+
+.ETH{
+    display: inline;
+    width: 75px;
+    height:20px ;
+    margin-left: 6.5px;
+    color: #00FFF8;
+    font-size: 16px;
+    font-weight: 600;
+
+
+}
+.div{
+    display: inline;
+}
+.random{
+    float: right;
+    
+}
+.andriu{
+    display: inline;
+    width: 73px;
+    height: 20px;
+    font-weight:400 ; 
+    font-size: 16px;
+    color: #8BACD9;
+    
+    
+}
+.line{
+width: 302px;
+height: 1px;
+margin: 24px;
+
+}
+.indira{
+width: 33px;
+height: 33px;
+
+
+}
+span{
+color:white;
+}
+span:hover{
+    color:#00FFF8;
+}
+.creation{
+    display: inline;
+}
+h1{
+    font-size: 22px;
+    font-weight: 600;
+    color: White;
+
+}
+h1:hover{
+    color: #00FFF8;
+}
+.otto{
+    font-weight: 300;
+font-size: 18px;
+color:#8BACD9;
+}
